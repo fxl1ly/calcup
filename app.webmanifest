@@ -1,3 +1,4 @@
 {
-  "name" : "Калькулятор УП"
+  "name" : "Калькулятор УП",
+  "display" : fullscreen
 }
