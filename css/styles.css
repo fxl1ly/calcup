@@ -1,0 +1,49 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.logo {
+	text-align: center;
+	padding: 10px;
+	margin: 5px;
+}
+
+.box {
+	padding: 5px;
+}
+
+.box > div {
+	padding: 10px;
+	margin: 5px;
+	border: 1px solid #dfe0e5;
+	border-radius: 5px;
+}
+
+.box1 {
+	background-color: #fce6f4;
+}
+
+.box2 {
+	background-color: #faf6e6;
+}
+
+.box3 {
+	background-color: #e3f3f1;
+
+}
+
+.box4 {
+	background-color: #e2effa;
+}
+
+.box5 {
+	background-color: #eae5f4;
+}
