@@ -1,5 +1,6 @@
 {
   "name" : "Калькулятор УП",
   "display" : "standalone",
-  "theme_color": "black"
+  "theme_color": "#191c22",
+  "background_color": "#191c22"
 }
