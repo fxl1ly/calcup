@@ -50,6 +50,10 @@ body {
 	flex-grow: 1;
 }
 
+.box3 {
+	display: none;
+}
+
 .red {
 	background-color: #c3007c;
 }
