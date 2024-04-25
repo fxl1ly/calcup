@@ -281,5 +281,15 @@
 		</div>
 		
 	</body>
-	
+		
+	<script>
+		
+		document.addEventListener('click', function (e) {
+			if (e.target.classList.contains("box1")) {
+				++e.target.parentElement.querySelector("box2").value;
+			}
+		})
+		
+	</script>
+		
 </html>
